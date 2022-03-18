@@ -4,11 +4,11 @@
         <TargetFramework>net6.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
-        <Title>Incremental.Common.EntityBase</Title>
+        <Title>Incremental.Common.Entity</Title>
         <Description>Base class &amp; useful extensions for domain entities.</Description>
         <Authors>Lucas Maximiliano Marino</Authors>
-        <PackageProjectUrl>https://github.com/incrementalfun/package.entitybase</PackageProjectUrl>
-        <RepositoryUrl>https://github.com/incrementalfun/package.entitybase</RepositoryUrl>
+        <PackageProjectUrl>https://github.com/incrementalfun/package.entity</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/incrementalfun/package.entity</RepositoryUrl>
         <PackageReadmeFile>README.md</PackageReadmeFile>
         <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>

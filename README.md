@@ -1,4 +1,4 @@
-# Incremental.Common.EntityBase
+# Incremental.Common.Entity
 Base class & useful extensions for domain entities.
 
 ## License

@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Incremental.Common.EntityBase", "Incremental.Common.EntityBase\Incremental.Common.EntityBase.csproj", "{ABBCD853-B2F6-4EF5-8FC3-7A843AA3EA26}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Incremental.Common.Entity", "Incremental.Common.Entity\Incremental.Common.Entity.csproj", "{ABBCD853-B2F6-4EF5-8FC3-7A843AA3EA26}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
